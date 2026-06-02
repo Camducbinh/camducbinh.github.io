@@ -1,6 +1,3 @@
-Có. Bạn chỉ cần tạo file `index.html` trong GitHub repo rồi paste toàn bộ đoạn này vào. GitHub Pages sẽ chạy được ngay.
-
-```html
 <!doctype html>
 <html lang="vi">
 <head>
